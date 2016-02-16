@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./disquisitiohist00kuypgoog_0012.png"; bbox 0 0 3228 5102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1613 1879 1614 2578">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1613 1879 1614 2578">
+     <span class='ocr_line' id='line_1_1' title="bbox 1613 1879 1614 2578; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1613 1879 1614 2578; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 552 4619 1166 4674">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 552 4619 1166 4674">
+     <span class='ocr_line' id='line_1_2' title="bbox 552 4619 1166 4674; baseline 0.003 -15"><span class='ocrx_word' id='word_1_2' title='bbox 552 4620 710 4674; x_wconf 57' lang='lat' dir='ltr'><strong>wem-m„</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 727 4623 762 4660; x_wconf 75' lang='lat' dir='ltr'><strong>n</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 777 4619 962 4659; x_wconf 66' lang='grc' dir='ltr'><strong>ΤΠΟΕΜΙΠΟ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 978 4620 999 4662; x_wconf 68' lang='lat'><strong>8.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1016 4621 1039 4662; x_wconf 79' lang='lat'><strong>0.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1055 4619 1166 4661; x_wconf 65' lang='lat' dir='ltr'><strong>Dum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1618 5102">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1618 5102">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1618 5102; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1618 5102; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
